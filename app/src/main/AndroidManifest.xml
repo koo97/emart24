@@ -21,6 +21,7 @@
         </activity>
         <activity android:name=".secondpage" />
         <activity android:name=".calculator" />
+        <activity android:name=".workerlist" />
     </application>
 
 </manifest>

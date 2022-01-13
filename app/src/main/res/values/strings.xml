@@ -2,5 +2,5 @@
     <string name="app_name">emart24</string>
     <string name="startbutton">시작하기</string>
     <string name="cal_button">근무자 추가</string>
-    <string name="button_result">결과</string>
+    <string name="button_result">저장</string>
 </resources>
